@@ -39,4 +39,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 📝 License
 
 Copyright © 2020 [LucasWG94](https://github.com/LucasWG94).<br />
-This project is [MIT](https://github.com/LucasWG94/bot-auxilio-emergencial/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/LucasWG94/CRUD-typeorm-postgres/blob/master/LICENSE) licensed.
